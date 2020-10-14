@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/appointment-picker/static/css/main.de8b1a1b.chunk.css",
+    "main.js": "/appointment-picker/static/js/main.4d4c71e8.chunk.js",
+    "main.js.map": "/appointment-picker/static/js/main.4d4c71e8.chunk.js.map",
+    "runtime-main.js": "/appointment-picker/static/js/runtime-main.a2c68a12.js",
+    "runtime-main.js.map": "/appointment-picker/static/js/runtime-main.a2c68a12.js.map",
+    "static/js/2.13f25fd9.chunk.js": "/appointment-picker/static/js/2.13f25fd9.chunk.js",
+    "static/js/2.13f25fd9.chunk.js.map": "/appointment-picker/static/js/2.13f25fd9.chunk.js.map",
+    "index.html": "/appointment-picker/index.html",
+    "precache-manifest.b75e1167b8067b24e7b4b1e93271a468.js": "/appointment-picker/precache-manifest.b75e1167b8067b24e7b4b1e93271a468.js",
+    "service-worker.js": "/appointment-picker/service-worker.js",
+    "static/css/main.de8b1a1b.chunk.css.map": "/appointment-picker/static/css/main.de8b1a1b.chunk.css.map",
+    "static/js/2.13f25fd9.chunk.js.LICENSE.txt": "/appointment-picker/static/js/2.13f25fd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2c68a12.js",
+    "static/js/2.13f25fd9.chunk.js",
+    "static/css/main.de8b1a1b.chunk.css",
+    "static/js/main.4d4c71e8.chunk.js"
+  ]
+}
